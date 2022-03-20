@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @alimehralian
-- 👀 I’m interested in Web programming
+- 👀 I’m interested in Web Programming - Full Stack Developer
 - 🌱 I’m currently learning Tailwind
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me alimehralian.info@gmail.com
 
 <!---
 alimehralian/alimehralian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
