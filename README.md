@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alimehralian
-- 👀 I’m interested in Web Programming - Full Stack Developer
+- 👀 I’m interested in Web Programming
 - 🌱 I’m currently learning Tailwind
 - 📫 How to reach me alimehralian.info@gmail.com
 
